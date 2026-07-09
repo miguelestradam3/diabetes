@@ -105,13 +105,7 @@ The model is evaluated using:
 
 ## 🚀 Getting Started
 
-Install the required libraries:
-
-```bash
-pip install -r requirements.txt
-```
-
-Or install them manually:
+Install them manually:
 
 ```bash
 pip install pandas numpy matplotlib seaborn scikit-learn imbalanced-learn
